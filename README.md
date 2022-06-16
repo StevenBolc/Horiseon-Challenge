@@ -7,3 +7,6 @@ https://github.com/coding-boot-camp/urban-octo-telegram
 
 
 https://stevenbolc.github.io/Horiseon-Challenge/
+
+
+<img src="assets/images/Horiseon-screenshot.PNG">
