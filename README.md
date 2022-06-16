@@ -16,7 +16,7 @@ reworked the css. consolidated tags from specific instances to singular classes
 removed the "p" class. could not find any issues or changes after it was removed. could be an issue on my end if substantial changes are apparent. 
 
 
-https://github.com/coding-boot-camp/urban-octo-telegram
+https://github.com/StevenBolc/Horiseon-Challenge
 
 
 https://stevenbolc.github.io/Horiseon-Challenge/
